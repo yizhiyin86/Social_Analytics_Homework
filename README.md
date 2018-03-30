@@ -184,4 +184,10 @@ while counter<5:
         
 ```
 Here are some analysis I did while I was running...
+Positive score: :smile:
+Negative score: :sob:
+foxnews, nytimes,CNNAfrica, which news source is more positive?
+
 ![alt text](https://raw.githubusercontent.com/yizhiyin86/TwitterBot/master/output/@foxnews.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/TwitterBot/master/output/@nytime.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/TwitterBot/master/output/@CNNAfrica.png)
