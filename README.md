@@ -1,6 +1,6 @@
 # TwitterBot
 ### Hey This is a twitterbot to analyze tweets for a sentimental analysis.
-### Sent a tweeter_id or a tweeter username to me at '@yydata_PlotBot'  and I will tweet a sentimental analysis graph based on 500 tweets of that tweeter_id 
+### Sent a twitter_id or a twitter username to me at '@yydata_PlotBot'  and I will tweet a graph of sentimental analysis  based on 500 tweets of that twitter_id 
 ###  When you run the script,please try:
 ###  Tweet me Analyze:id/name/screen name for sentimental score analysis 
 ###  Note: 1. No tweet will be sent if the requested search target has been searched before
