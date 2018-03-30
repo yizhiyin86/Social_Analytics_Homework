@@ -184,4 +184,4 @@ while counter<5:
         
 ```
 Here are some analysis I did while I was running...
-![alt text](https://raw.githubusercontent.com/yizhiyin86/TwitterBot/master/TwitterBot/output/@foxnews.png)
+![alt text](https://raw.githubusercontent.com/yizhiyin86/TwitterBot/master/output/@foxnews.png)
