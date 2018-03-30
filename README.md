@@ -184,8 +184,8 @@ while counter<5:
         
 ```
 Here are some analysis I did while I was running...
-Positive score: :smile:\n
-Negative score: :sob:\n
+Positive score: :smile:<br />
+Negative score: :sob:<br />
 foxnews, nytimes,CNNAfrica, which news source is more positive?
 
 ![alt text](https://raw.githubusercontent.com/yizhiyin86/TwitterBot/master/output/@foxnews.png)
