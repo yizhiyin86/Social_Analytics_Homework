@@ -6,10 +6,9 @@ Sent a twitter_id or a twitter username to me at '@yydata_PlotBot'  and I will t
 
 When you run the script,please try:
 Tweet me Analyze:id/name/screen name for sentimental score analysis 
-Note: 1. No tweet will be sent if the requested search target has been searched before <br />
 
-      2. id/name/screen name to analyze needs to be put in the format Analyze:id/name/screen (must be after ':')<br />
-      
+Note: 1. No tweet will be sent if the requested search target has been searched before <br />
+      2. id/name/screen name to analyze needs to be put in the format Analyze:id/name/screen (must be after ':')<br /> 
       3. all searches have been done are updated and output to a request_log.csv<br />
       
 output folder has png of analysis I have made while testing this script. It seems twitter has blocked me from tweet to @yydata_PlotBot 
