@@ -6,8 +6,7 @@
 ###  Note: 1. No tweet will be sent if the requested search target has been searched before
 ###        2. id/name/screen name to analyze needs to be put in the format Analyze:id/name/screen (must be after ':') 
 ###        3. all searches have been done are updated and output to a request_log.csv
-##output folder<br />
-##png of analysis I have made while testing this script. It seems twitter has blocked me from tweet to @yydata_PlotBot 
+### output folder has png of analysis I have made while testing this script. It seems twitter has blocked me from tweet to @yydata_PlotBot 
 
 # Import Dependencies
 
